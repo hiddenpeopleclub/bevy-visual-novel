@@ -1,0 +1,4 @@
+#!/bin/bash
+
+../cuentitos/target/release/cuentitos compile script/visual-novel-example.cuentitos asets/visual-novel-example.db 
+# && ../cuentitos/target/release/cuentitos run ../visual-novel-example.db
